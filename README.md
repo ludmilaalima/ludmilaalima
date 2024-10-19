@@ -10,8 +10,7 @@ Utilizo principalmente Python, SQLite e Pandas, com foco em automação de proce
 
 Minha experiência envolve o desenvolvimento de aplicações completas, onde Python é utilizado tanto no front-end quanto no back-end, sempre buscando entregar soluções eficientes e eficazes para o setor.
 
-Atualmente estou aprendendo desenvolvimnento back end, stou estudando java, SPRINT boot, jpa, entre outros
-
+Atualmente, estou me dedicando ao aprendizado de desenvolvimento back-end, estudando Java, Spring Boot, JPA, entre outras tecnologias.
 
 <div>
 
