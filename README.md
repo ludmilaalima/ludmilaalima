@@ -15,7 +15,8 @@ Atualmente, estou me dedicando ao aprendizado de desenvolvimento back-end, estud
 <div>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ludmilaalima&show_icons=true&theme=synthwave&hide=stars"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmilaalima&layout=compact&theme=synthwave"/>
+   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmilaalima&layout=compact&theme=synthwave"/> -->
+
 <div>
 
 ## Meus contatos
