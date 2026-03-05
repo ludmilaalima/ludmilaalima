@@ -1,14 +1,10 @@
-## Olá! 
+## Olá! sou Ludmila 😁
 
-Sou Ludmila Lima 😁
+Sou Assistente de Dados, com experiência prática em ETL, qualidade de dados e automação de processos. No dia a dia, transformo dados de diferentes fontes em bases confiáveis e em relatórios/dashboards padronizados, seguindo normas técnicas e requisitos de negócio.
 
-Estudante de Ciência da Computação e apaixonada por tecnologia 👩‍💻💓
+**Stack:** Python · SQL · Excel Avançado
+**Estudando (Engenharia de Dados):** Airflow · Spark · Parquet · Data Lake · dbt · Cloud (AWS/Azure/GCP) + fundamentos web (HTML/CSS/JavaScript) e automação (Selenium)
 
-Atualmente, sou estagiária e atuo no desenvolvimento de aplicações para o setor de Pavimentos 👷
-
-Utilizo principalmente Python, SQLite e Pandas, com foco em automação de processos e no desenvolvimento de aplicativos desktop. No front-end, utilizo a biblioteca PyQt, baseada no framework Qt, para criar interfaces de usuário intuitivas e eficientes, aprimorando a experiência dos usuários. No back-end, aplico os princípios de Programação Orientada a Objetos (POO), além de seguir práticas de Clean Code para garantir que código seja de alta qualidade, manutenível e escalável.
-
-Atualmente, estou me dedicando ao aprendizado de desenvolvimento back-end, estudando Java, Spring Boot, JPA, entre outras tecnologias.
 
 <div>
 
@@ -18,25 +14,31 @@ Atualmente, estou me dedicando ao aprendizado de desenvolvimento back-end, estud
 <div>
 
 ## Meus contatos
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ludmilaa.)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ludmilalima15z@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmila-lima-b43601215)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_ludmilaa/)
+
 
 ## Tecnologias e ferramentas
 
 <div>
 
 <img align="center" alt="PYTHON-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="center" alt="JAVA-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="center" alt="EXCEL-html" height="30" width="40" src="![Excel](https://img.shields.io"/>)
 <img align="center" alt="PANDAS-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+<img align="center" alt="HTML5-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center" alt="DJANGO-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>"/>
+<img align="center" alt="JIRA-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+<img align="center" alt="JSON-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
+<img align="center" alt="FASTAPI-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" />"/>
 <img align="center" alt="FIGMA-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+<img align="center" alt="SELENIUM-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img align="center" alt="JAVASCRIPT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="GIT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="center" alt="GitHUB-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="center" alt="GitHUB-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
 <img align="center" alt="mysql-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img align="center" alt="QT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"/>
+
 
 <div>
 
