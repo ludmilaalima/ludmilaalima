@@ -1,7 +1,6 @@
 ## Olá! sou Ludmila 😁
 
-Sou Assistente de Dados, com experiência prática em ETL, qualidade de dados e automação de processos.<br>
-No dia a dia, transformo dados de diferentes fontes em bases confiáveis e em relatórios/dashboards padronizados, seguindo normas técnicas e requisitos de negócio.<br><br>
+Sou Assistente de Dados, com experiência prática em ETL, qualidade de dados e automação de processos.No dia a dia, transformo dados de diferentes fontes em bases confiáveis e em relatórios/dashboards padronizados, seguindo normas técnicas e requisitos de negócio.<br><br>
 <strong>Stack:</strong> Python · SQL · Excel Avançado<br>
 <strong>Estudando (Engenharia de Dados):</strong> Airflow · Spark · Parquet · Data Lake · dbt · Cloud (AWS/Azure/GCP) + fundamentos web (HTML/CSS/JavaScript) e automação (Selenium)
 
@@ -15,7 +14,6 @@ No dia a dia, transformo dados de diferentes fontes em bases confiáveis e em re
 
 <div>
 <img align="center" alt="PYTHON-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="center" alt="EXCEL-html" height="30" width="40" src="![Excel](https://img.shields.io"/>)
 <img align="center" alt="PANDAS-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
 <img align="center" alt="HTML5-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" alt="DJANGO-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>"/>
@@ -30,7 +28,6 @@ No dia a dia, transformo dados de diferentes fontes em bases confiáveis e em re
 <img align="center" alt="GitHUB-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
 <img align="center" alt="mysql-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img align="center" alt="QT-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"/>
-
 
 <div>
 
