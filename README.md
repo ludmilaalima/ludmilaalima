@@ -1,6 +1,6 @@
 ## Olá! sou Ludmila 😁
 
-Sou Assistente de Dados, com experiência prática em ETL, qualidade de dados e automação de processos.No dia a dia, transformo dados de diferentes fontes em bases confiáveis e em relatórios/dashboards padronizados, seguindo normas técnicas e requisitos de negócio.<br><br>
+Sou Assistente de Dados, com experiência prática em ETL, qualidade de dados e automação de processos. No dia a dia, transformo dados de diferentes fontes em bases confiáveis e em relatórios/dashboards padronizados, seguindo normas técnicas e requisitos de negócio.<br><br>
 <strong>Stack:</strong> Python · SQL · Excel Avançado<br>
 <strong>Estudando (Engenharia de Dados):</strong> Airflow · Spark · Parquet · Data Lake · dbt · Cloud (AWS/Azure/GCP) + fundamentos web (HTML/CSS/JavaScript) e automação (Selenium)
 
